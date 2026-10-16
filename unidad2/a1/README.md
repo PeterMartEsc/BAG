@@ -1,5 +1,10 @@
 # Actividad 2.1 - 2FA con Google Authenticator
 
+<center>
+    <img src="./capturas/portada.png"/>
+</center>
+
+__Nombre:__ Pedro Martín Escuela
 
 ## Introducción
 
